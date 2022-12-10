@@ -1,2 +1,1 @@
-hello world
-C level coding
+low level programming
